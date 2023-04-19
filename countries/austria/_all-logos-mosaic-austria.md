@@ -6,7 +6,7 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 0,2mb  |  📅 Last update: February 19 2021  
+💾 Combined file size = 0,2mb  |  📅 Last update: 19/04/23  
 🎨 __13 Logos total__  |  ✨ __6 HD Logos__
    
    
