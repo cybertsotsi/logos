@@ -6,7 +6,7 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 15,3mb  |  📅 Last update: 19/04/cybertsotsi/tv 
+💾 Combined file size = 15,3mb  |  📅 Last update: 19/04/23 
 🎨 __321 Logos total__  |  ✨ __50 HD Logos__
    
    
