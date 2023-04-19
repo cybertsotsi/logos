@@ -4,11 +4,11 @@ When you need to get the image URL for a logo, make sure that you have the corre
 
 Follow these steps for an easy way of getting the working .png 'raw' url.
 
-<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/how-to-logo-url-step-1.png" width="100%">
+<img src="https://raw.githubusercontent.com/cybertsotsi/tv-logos/master/misc/how-to-logo-url-step-1.png" width="100%">
 
-<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/how-to-logo-url-step-2.png" width="100%">
+<img src="https://raw.githubusercontent.com/cybertsotsi/tv-logos/master/misc/how-to-logo-url-step-2.png" width="100%">
 
-<img src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/how-to-logo-url-step-3.png" width="100%">
+<img src="https://raw.githubusercontent.com/cybertsotsi/tv-logos/master/misc/how-to-logo-url-step-3.png" width="100%">
 
 
 Extra Notes:
