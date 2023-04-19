@@ -140,4 +140,4 @@
 [volver]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/argentina/volver-ar.png
 [warner-channel]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/argentina/warner-channel-ar.png
 
-[space1]:https://raw.githubusercontent.com/cybertsotsi/tv//master/misc/%CE%A9/space-1500.png
+[space1]:https://raw.githubusercontent.com/cybertsotsi/tv/master/misc/%CE%A9/space-1500.png
