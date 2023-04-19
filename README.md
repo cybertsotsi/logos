@@ -71,9 +71,7 @@ Moved the VOD logos to <a href="https://github.com/cybertstosi/tv/tree/master/mi
 If you were directly linking to them, all you have to do is replace this string -> '.../countries/united-states/vod/' with this one -> '.../misc/vod/'
 
 ## About the project
-The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link by clicking the download button and use that URL <a href="https://github.com/cybertstosi/tv/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> I recommend getting a browser extension that changes Git to dark. ***Update: Git has now implemented dark mode.***
-
-Get GitHub Dark Theme for <a href="https://chrome.google.com/webstore/detail/github-dark-theme/odkdlljoangmamjilkamahebpkgpeacp">CHROME</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/github-dark-theme/">FIREFOX</a>
+The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link by clicking the download button and use that URL <a href="https://github.com/cybertstosi/tv/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> 
 
 Here's a preview of some of the logos on a dark background(not a real software):
 <img src="https://raw.githubusercontent.com/cybertstosi/tv/master/misc/contrastDemo2.jpg" width="100%">
