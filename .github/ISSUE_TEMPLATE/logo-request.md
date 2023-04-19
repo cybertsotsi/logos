@@ -3,7 +3,7 @@ name: Logo request
 about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: Tapiosinn
+assignees: Some Person
 
 ---
 
