@@ -6,7 +6,7 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 0,6mb  |  📅 Last update: March 2 2021  
+💾 Combined file size = 0,6mb  |  📅 Last update: 19/04/23  
 🎨 __13 Logos total__  |  ✨ __4 HD Logos__
    
    
@@ -17,18 +17,18 @@
 | ![star] |  |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
-[blue-ant-entertainment]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/blue-ant-entertainment-asi.png
-[blue-ant-extreme]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/blue-ant-extreme-asi.png
-[disney-plus-hotstar]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/disney-plus-hotstar-asi.png
-[disney-plus-hotstar-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/disney-plus-hotstar-hz-asi.png
-[fox-sports]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/fox-sports-asi.png
-[fox-sports-1]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/fox-sports-1-asi.png
-[fox-sports-1-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/fox-sports-1-hd-asi.png
-[fox-sports-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/fox-sports-2-asi.png
-[fox-sports-2-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/fox-sports-2-hd-asi.png
-[fox-sports-3]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/fox-sports-3-asi.png
-[fox-sports-3-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/fox-sports-3-hd-asi.png
-[fox-sports-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/fox-sports-hd-asi.png
-[star]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/star-asi.png
+[blue-ant-entertainment]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/blue-ant-entertainment-asi.png
+[blue-ant-extreme]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/blue-ant-extreme-asi.png
+[disney-plus-hotstar]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/disney-plus-hotstar-asi.png
+[disney-plus-hotstar-hz]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/disney-plus-hotstar-hz-asi.png
+[fox-sports]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/fox-sports-asi.png
+[fox-sports-1]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/fox-sports-1-asi.png
+[fox-sports-1-hd]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/fox-sports-1-hd-asi.png
+[fox-sports-2]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/fox-sports-2-asi.png
+[fox-sports-2-hd]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/fox-sports-2-hd-asi.png
+[fox-sports-3]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/fox-sports-3-asi.png
+[fox-sports-3-hd]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/fox-sports-3-hd-asi.png
+[fox-sports-hd]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/fox-sports-hd-asi.png
+[star]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/world-asia/star-asi.png
 
-[space]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/%CE%A9/space-1500.png
+[space]:https://raw.githubusercontent.com/cybertsotsi/tv/master/misc/%CE%A9/space-1500.png
