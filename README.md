@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Fourqui/tv/master/misc/github-header2.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/cybertstosi/tv/master/misc/github-header2.jpg" width="100%">
 
 <h1>Free high quality TV Logos for dark backgrounds</h1>
 
@@ -18,56 +18,56 @@ Click on a country to go to its directory. From there you can click the mosaic f
 | 🇹🇷 [Turkey]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  | 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] |
 | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] | ⭐️ [Misc] | 📼 [Vod] |   |
 
-[Argentina]:https://github.com/Fourqui/tv/blob/master/countries/argentina "Argentina"
-[Australia]:https://github.com/Fourqui/tv/blob/master/countries/australia "Australia"
-[Austria]:https://github.com/Fourqui/tv/blob/master/countries/austria "Austria"
-[Belgium]:https://github.com/Fourqui/tv/blob/master/countries/belgium "Belgium"
-[Canada]:https://github.com/Fourqui/tv/blob/master/countries/canada "Canada"
-[Caribbean]:https://github.com/Fourqui/tv/blob/master/countries/caribbean "Caribbean"
-[Croatia]:https://github.com/Fourqui/tv/blob/master/countries/croatia "Croatia"
-[Costa-Rica]:https://github.com/Fourqui/tv/blob/master/countries/costa-rica "Costa-Rica"
-[France]:https://github.com/Fourqui/tv//blob/master/countries/france "France"
-[Germany]:https://github.com/Fourqui/tv/blob/master/countries/germany "Germany"
-[Greece]:https://github.com/Fourqui/tv/blob/master/countries/greece "Greece"
-[Hong-Kong]:https://github.com/Fourqui/tv/blob/master/countries/hong-kong "Hong-Kong"
-[India]:https://github.com/Fourqui/tv/blob/master/countries/india "India"
-[International]:https://github.com/Fourqui/tv/blob/master/countries/international "International"
-[Italy]:https://github.com/Fourqui/tv/blob/master/countries/italy "Italy"
-[Malaysia]:https://github.com/Fourqui/tv/blob/master/countries/malaysia "Malaysia"
-[Lebanon]:https://github.com/Fourqui/tv/blob/master/countries/lebanon "Lebanon"
-[Malta]:https://github.com/Fourqui/tv/blob/master/countries/malta "Malta"
-[Mexico]:https://github.com/Fourqui/tv/blob/master/countries/mexico "Mexico"
-[Netherlands]:https://github.com/Fourqui/tv/blob/master/countries/netherlands "Netherlands"
-[New-Zealand]:https://github.com/Fourqui/tv/blob/master/countries/new-zealand "New-Zealand"
-[Nordic]:https://github.com/Fourqui/tv/blob/master/countries/nordic "Nordic"
-[Denmark]:https://github.com/Fourqui/tv/blob/master/countries/nordic/denmark "Denmark"
-[Finland]:https://github.com/Fourqui/tv/blob/master/countries/nordic/finland "Finland"
-[Iceland]:https://github.com/Fourqui/tv/blob/master/countries/nordic/iceland "Iceland"
-[Indonesia]:https://github.com/Fourqui/tv/blob/master/countries/indonesia "Indonesia"
-[Norway]:https://github.com/Fourqui/tv/blob/master/countries/nordic/norway "Norway"
-[Sweden]:https://github.com/Fourqui/tv/blob/master/countries/nordic/sweden "Sweden"
-[Poland]:https://github.com/Fourqui/tv/blob/master/countries/poland "Poland"
-[Portugal]:https://github.com/Fourqui/tv/blob/master/countries/portugal "Portugal"
-[Russia]:https://github.com/Fourqui/tv/blob/master/countries/russia "Russia"
-[Serbia]:https://github.com/Fourqui/tv/blob/master/countries/serbia "Serbia"
-[Singapore]:https://github.com/Fourqui/tv/blob/master/countries/singapore "Singapore"
-[South-Africa]:https://github.com/Fourqui/tv/blob/master/countries/south-africa "South-Africa"
-[Spain]:https://github.com/Fourqui/tv/blob/master/countries/spain "Spain"
-[Switzerland]:https://github.com/Fourqui/tv/blob/master/countries/switzerland "Switzerland"
-[Turkey]:https://github.com/Fourqui/tv/blob/master/countries/turkey "Turkey"
-[United-Kingdom]:https://github.com/Fourqui/tv/blob/master/countries/united-kingdom "United-Kingdom"
-[United-States]:https://github.com/Fourqui/tv/blob/master/countries/united-states "United-States"
-[World-Africa]:https://github.com/Fourqui/tv/blob/master/countries/world-africa "World-Africa"
-[World-Asia]:https://github.com/Fourqui/tv/blob/master/countries/world-asia "World-Asia"
-[World-Europe]:https://github.com/Fourqui/tv/blob/master/countries/world-europe "World-Europe"
-[World-Latin-America]:https://github.com/Fourqui/tv/blob/master/countries/world-latin-america "World-Latin-America"
-[World-Middle-East]:https://github.com/Fourqui/tv/blob/master/countries/world-middle-east "World-Middle-East"
-[World-Oceania]:https://github.com/Fourqui/tv/blob/master/countries/world-oceania "World-Oceania"
-[Misc]:https://github.com/Fourqui/tv/tree/master/misc "Misc"
-[VOD]:https://github.com/Fourqui/tv/tree/master/misc/vod "VOD"
+[Argentina]:https://github.com/cybertstosi/tv/blob/master/countries/argentina "Argentina"
+[Australia]:https://github.com/cybertstosi/tv/blob/master/countries/australia "Australia"
+[Austria]:https://github.com/cybertstosi/tv/blob/master/countries/austria "Austria"
+[Belgium]:https://github.com/cybertstosi/tv/blob/master/countries/belgium "Belgium"
+[Canada]:https://github.com/cybertstosi/tv/blob/master/countries/canada "Canada"
+[Caribbean]:https://github.com/cybertstosi/tv/blob/master/countries/caribbean "Caribbean"
+[Croatia]:https://github.com/cybertstosi/tv/blob/master/countries/croatia "Croatia"
+[Costa-Rica]:https://github.com/cybertstosi/tv/blob/master/countries/costa-rica "Costa-Rica"
+[France]:https://github.com/cybertstosi/tv//blob/master/countries/france "France"
+[Germany]:https://github.com/cybertstosi/tv/blob/master/countries/germany "Germany"
+[Greece]:https://github.com/cybertstosi/tv/blob/master/countries/greece "Greece"
+[Hong-Kong]:https://github.com/cybertstosi/tv/blob/master/countries/hong-kong "Hong-Kong"
+[India]:https://github.com/cybertstosi/tv/blob/master/countries/india "India"
+[International]:https://github.com/cybertstosi/tv/blob/master/countries/international "International"
+[Italy]:https://github.com/cybertstosi/tv/blob/master/countries/italy "Italy"
+[Malaysia]:https://github.com/cybertstosi/tv/blob/master/countries/malaysia "Malaysia"
+[Lebanon]:https://github.com/cybertstosi/tv/blob/master/countries/lebanon "Lebanon"
+[Malta]:https://github.com/cybertstosi/tv/blob/master/countries/malta "Malta"
+[Mexico]:https://github.com/cybertstosi/tv/blob/master/countries/mexico "Mexico"
+[Netherlands]:https://github.com/cybertstosi/tv/blob/master/countries/netherlands "Netherlands"
+[New-Zealand]:https://github.com/cybertstosi/tv/blob/master/countries/new-zealand "New-Zealand"
+[Nordic]:https://github.com/cybertstosi/tv/blob/master/countries/nordic "Nordic"
+[Denmark]:https://github.com/cybertstosi/tv/blob/master/countries/nordic/denmark "Denmark"
+[Finland]:https://github.com/cybertstosi/tv/blob/master/countries/nordic/finland "Finland"
+[Iceland]:https://github.com/cybertstosi/tv/blob/master/countries/nordic/iceland "Iceland"
+[Indonesia]:https://github.com/cybertstosi/tv/blob/master/countries/indonesia "Indonesia"
+[Norway]:https://github.com/cybertstosi/tv/blob/master/countries/nordic/norway "Norway"
+[Sweden]:https://github.com/cybertstosi/tv/blob/master/countries/nordic/sweden "Sweden"
+[Poland]:https://github.com/cybertstosi/tv/blob/master/countries/poland "Poland"
+[Portugal]:https://github.com/cybertstosi/tv/blob/master/countries/portugal "Portugal"
+[Russia]:https://github.com/cybertstosi/tv/blob/master/countries/russia "Russia"
+[Serbia]:https://github.com/cybertstosi/tv/blob/master/countries/serbia "Serbia"
+[Singapore]:https://github.com/cybertstosi/tv/blob/master/countries/singapore "Singapore"
+[South-Africa]:https://github.com/cybertstosi/tv/blob/master/countries/south-africa "South-Africa"
+[Spain]:https://github.com/cybertstosi/tv/blob/master/countries/spain "Spain"
+[Switzerland]:https://github.com/cybertstosi/tv/blob/master/countries/switzerland "Switzerland"
+[Turkey]:https://github.com/cybertstosi/tv/blob/master/countries/turkey "Turkey"
+[United-Kingdom]:https://github.com/cybertstosi/tv/blob/master/countries/united-kingdom "United-Kingdom"
+[United-States]:https://github.com/cybertstosi/tv/blob/master/countries/united-states "United-States"
+[World-Africa]:https://github.com/cybertstosi/tv/blob/master/countries/world-africa "World-Africa"
+[World-Asia]:https://github.com/cybertstosi/tv/blob/master/countries/world-asia "World-Asia"
+[World-Europe]:https://github.com/cybertstosi/tv/blob/master/countries/world-europe "World-Europe"
+[World-Latin-America]:https://github.com/cybertstosi/tv/blob/master/countries/world-latin-america "World-Latin-America"
+[World-Middle-East]:https://github.com/cybertstosi/tv/blob/master/countries/world-middle-east "World-Middle-East"
+[World-Oceania]:https://github.com/cybertstosi/tv/blob/master/countries/world-oceania "World-Oceania"
+[Misc]:https://github.com/cybertstosi/tv/tree/master/misc "Misc"
+[VOD]:https://github.com/cybertstosi/tv/tree/master/misc/vod "VOD"
 
 ## VOD logos moved
-I have moved the VOD logos to <a href="https://github.com/Fourqui/tv/tree/master/misc">/misc</a>
+I have moved the VOD logos to <a href="https://github.com/cybertstosi/tv/tree/master/misc">/misc</a>
 
 If you were directly linking to them, all you have to do is replace this string -> '.../countries/united-states/vod/' with this one -> '.../misc/vod/'
 
@@ -76,17 +76,17 @@ I've started the work on resizing all the logos down to 512px and optimizing the
   
 
 Important note: Most of my logos only work on dark background! Most tv apps and guides have a dark user interface.
-<img src="https://raw.githubusercontent.com/Fourqui/tv/master/misc/logoset_demo-2.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/cybertstosi/tv/master/misc/logoset_demo-2.jpg" width="100%">
 
 ## About the project
-The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link by clicking the download button and use that URL <a href="https://github.com/Fourqui/tv/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> I recommend getting a browser extension that changes Git to dark. ***Update: Git has now implemented dark mode.***
+The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link by clicking the download button and use that URL <a href="https://github.com/cybertstosi/tv/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> I recommend getting a browser extension that changes Git to dark. ***Update: Git has now implemented dark mode.***
 
 Get GitHub Dark Theme for <a href="https://chrome.google.com/webstore/detail/github-dark-theme/odkdlljoangmamjilkamahebpkgpeacp">CHROME</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/github-dark-theme/">FIREFOX</a>
 
 Here's a preview of some of the logos on a dark background(not a real software):
-<img src="https://raw.githubusercontent.com/Fourqui/tv/master/misc/contrastDemo2.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/cybertstosi/tv/master/misc/contrastDemo2.jpg" width="100%">
  
-<a href="https://github.com/Fourqui/tv/blob/master/how-to.md">CLICK HERE for guide on how to use the logos</a>
+<a href="https://github.com/cybertstosi/tv/blob/master/how-to.md">CLICK HERE for guide on how to use the logos</a>
 
 ## I will regularly add new channel logos, you can also message me and request logos.
 
