@@ -895,7 +895,7 @@
 [you-too-america-icon]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/united-states/you-too-america-icon-us.png
 [z-living]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/united-states/z-living-us.png
 
-[Click here to go to the US local networks mosaic page]: https://github.com/cybertsotsi/tv/master/countries/united-states/us-local/0z_all-logos-mosaic-us-local.md "Click here to go to the US local networks mosaic page"
+[Click here to go to the US local networks mosaic page]: https://github.com/cybertsotsi/logos/blob/main/countries/united-states/us-local/0z_all-logos-mosaic-us-local.md "Click here to go to the US local networks mosaic page"
 
 
 [space]:https://raw.githubusercontent.com/cybertsotsi/tv/master/misc/%CE%A9/space-1500.png

@@ -464,6 +464,6 @@
 [wgn-9-chicago-us]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/united-states/us-local/wgn-9-chicago-us.png
 [wthi-10-news-us]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/united-states/us-local/wthi-10-news-us.png
 
-[Click here to go to the main US logo mosaic page]: https://github.com/cybertsotsi/tv/master/countries/united-states/0_all-logos-mosaic-us.md "Click here to go to the main US logo mosaic page"
+[Click here to go to the main US logo mosaic page]: https://github.com/cybertsotsi/logos/blob/main/countries/united-states/us-local/0z_all-logos-mosaic-us-local.md "Click here to go to the main US logo mosaic page"
 
 [space]:https://raw.githubusercontent.com/cybertsotsi/tv/master/misc/%CE%A9/space-1500.png
