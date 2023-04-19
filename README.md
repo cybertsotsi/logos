@@ -66,16 +66,9 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [VOD]:https://github.com/cybertstosi/tv/tree/master/misc/vod "VOD"
 
 ## VOD logos moved
-I have moved the VOD logos to <a href="https://github.com/cybertstosi/tv/tree/master/misc">/misc</a>
+Moved the VOD logos to <a href="https://github.com/cybertstosi/tv/tree/master/misc">/misc</a>
 
 If you were directly linking to them, all you have to do is replace this string -> '.../countries/united-states/vod/' with this one -> '.../misc/vod/'
-
-## Resize and optimize
-I've started the work on resizing all the logos down to 512px and optimizing them. This will make them quicker to load and has a smaller filesize. All new logos I upload will be 512px. You can find the older bigger version of each logo in each files history or contact me if you prefer a specific logo to be larger.
-  
-
-Important note: Most of my logos only work on dark background! Most tv apps and guides have a dark user interface.
-<img src="https://raw.githubusercontent.com/cybertstosi/tv/master/misc/logoset_demo-2.jpg" width="100%">
 
 ## About the project
 The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just copy the **RAW** link by clicking the download button and use that URL <a href="https://github.com/cybertstosi/tv/blob/master/how-to.md">CLICK HERE for logo url help-guide.</a> I recommend getting a browser extension that changes Git to dark. ***Update: Git has now implemented dark mode.***
