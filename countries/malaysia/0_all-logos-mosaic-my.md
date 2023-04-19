@@ -6,7 +6,7 @@
 📐 The logos have a max-width of 512px and have been optimized for smallest file size  
 🖤 The logos are created specifically to work on dark backgrounds  
    
-💾 Combined file size = 0,7mb  |  📅 Last update: October 16 2021  
+💾 Combined file size = 0,7mb  |  📅 Last update: 19/04/23 
 🎨 __22 Logos total__  |  ✨ __5 HD Logos__ 
    
    
@@ -18,27 +18,27 @@
 | ![astro-supersport-hd] | ![bein-sports-max-hz] | ![egg-network] | ![rtm] |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
-[astro-arena]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-arena-my.png
-[astro-arena-bug]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/screen-bug/astro-arena-bug-my.png
-[astro-box-office-sport]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-box-office-sport-my.png
-[astro-cricket]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-cricket-my.png
-[astro-cricket-bug]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/screen-bug/astro-cricket-bug-my.png
-[astro-supersport]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-my.png
-[astro-supersport-2]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-2-my.png
-[astro-supersport-2-bug]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/screen-bug/astro-supersport-2-bug-my.png
-[astro-supersport-2-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-2-hd-my.png
-[astro-supersport-3]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-3-my.png
-[astro-supersport-3-bug]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/screen-bug/astro-supersport-3-bug-my.png
-[astro-supersport-3-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-3-hd-my.png
-[astro-supersport-4]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-4-my.png
-[astro-supersport-4-bug]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/screen-bug/astro-supersport-4-bug-my.png
-[astro-supersport-4-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-4-hd-my.png
-[astro-supersport-5]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-5-my.png
-[astro-supersport-5-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-5-hd-my.png
-[astro-supersport-bug]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/screen-bug/astro-supersport-bug-my.png
-[astro-supersport-hd]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-hd-my.png
-[bein-sports-max-hz]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/bein-sports-max-hz-my.png
-[egg-network]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/egg-network-my.png
-[rtm]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/rtm-my.png
+[astro-arena]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-arena-my.png
+[astro-arena-bug]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/screen-bug/astro-arena-bug-my.png
+[astro-box-office-sport]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-box-office-sport-my.png
+[astro-cricket]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-cricket-my.png
+[astro-cricket-bug]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/screen-bug/astro-cricket-bug-my.png
+[astro-supersport]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-supersport-my.png
+[astro-supersport-2]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-supersport-2-my.png
+[astro-supersport-2-bug]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/screen-bug/astro-supersport-2-bug-my.png
+[astro-supersport-2-hd]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-supersport-2-hd-my.png
+[astro-supersport-3]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-supersport-3-my.png
+[astro-supersport-3-bug]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/screen-bug/astro-supersport-3-bug-my.png
+[astro-supersport-3-hd]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-supersport-3-hd-my.png
+[astro-supersport-4]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-supersport-4-my.png
+[astro-supersport-4-bug]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/screen-bug/astro-supersport-4-bug-my.png
+[astro-supersport-4-hd]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-supersport-4-hd-my.png
+[astro-supersport-5]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-supersport-5-my.png
+[astro-supersport-5-hd]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-supersport-5-hd-my.png
+[astro-supersport-bug]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/screen-bug/astro-supersport-bug-my.png
+[astro-supersport-hd]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/astro-supersport-hd-my.png
+[bein-sports-max-hz]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/bein-sports-max-hz-my.png
+[egg-network]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/egg-network-my.png
+[rtm]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/malaysia/rtm-my.png
 
-[space]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/%CE%A9/space-1500.png
+[space]:https://raw.githubusercontent.com/cybertsotsi/tv/master/misc/%CE%A9/space-1500.png
