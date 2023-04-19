@@ -17,18 +17,18 @@
 | ![sky-sport-austria-hd-at] |  |  |  |  |  |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
-[nick-austria-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/nick-austria-at.png
-[servus-tv-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/servus-tv-at.png
-[servus-tv-hd-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/hd/servus-tv-hd-at.png
-[sky-sport-austria-1-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/sky-sport-austria-1-at.png
-[sky-sport-austria-1-hd-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/hd/sky-sport-austria-1-hd-at.png
-[sky-sport-austria-2-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/sky-sport-austria-2-at.png
-[sky-sport-austria-2-hd-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/hd/sky-sport-austria-2-hd-at.png
-[sky-sport-austria-3-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/sky-sport-austria-3-at.png
-[sky-sport-austria-3-hd-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/hd/sky-sport-austria-3-hd-at.png
-[sky-sport-austria-4-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/sky-sport-austria-4-at.png
-[sky-sport-austria-4-hd-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/hd/sky-sport-austria-4-hd-at.png
-[sky-sport-austria-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/sky-sport-austria-at.png
-[sky-sport-austria-hd-at]:https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/austria/hd/sky-sport-austria-hd-at.png
+[nick-austria-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/nick-austria-at.png
+[servus-tv-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/servus-tv-at.png
+[servus-tv-hd-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/hd/servus-tv-hd-at.png
+[sky-sport-austria-1-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/sky-sport-austria-1-at.png
+[sky-sport-austria-1-hd-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/hd/sky-sport-austria-1-hd-at.png
+[sky-sport-austria-2-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/sky-sport-austria-2-at.png
+[sky-sport-austria-2-hd-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/hd/sky-sport-austria-2-hd-at.png
+[sky-sport-austria-3-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/sky-sport-austria-3-at.png
+[sky-sport-austria-3-hd-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/hd/sky-sport-austria-3-hd-at.png
+[sky-sport-austria-4-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/sky-sport-austria-4-at.png
+[sky-sport-austria-4-hd-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/hd/sky-sport-austria-4-hd-at.png
+[sky-sport-austria-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/sky-sport-austria-at.png
+[sky-sport-austria-hd-at]:https://raw.githubusercontent.com/cybertsotsi/tv/master/countries/austria/hd/sky-sport-austria-hd-at.png
 
-[space]:https://github.com/Tapiosinn/tv-logos/blob/master/misc/%CE%A9/space-1500.png
+[space]:https://raw.githubusercontent.com/cybertsotsi/tv/master/misc/%CE%A9/space-1500.png
