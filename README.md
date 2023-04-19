@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/cybertstosi/tv/master/misc/github-header2.jpg" width="100%">
 
 <h1>Free high quality TV Logos for dark backgrounds</h1>
 
